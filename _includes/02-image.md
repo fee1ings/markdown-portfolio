@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of cat](https://cdn2.thecatapi.com/images/2mo.jpg)
